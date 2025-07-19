@@ -8,15 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Shopping Website**
+- 🔭 I’m currently working on ** Data Anaylsis**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **Python,Numpy,Panda,Matplotlib,PowerBI,Tableau**
 
-- 💬 Ask me about **Database,SQL,Python**
+- 💬 Ask me about **Database,SQL,Python,Html,CSS,Javascript**
 
-- 📫 How to reach me **abhanishm@gmail.com**
+- 📫 How to reach me **mrabhi@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
